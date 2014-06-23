@@ -5,8 +5,8 @@
 <head>
 <script
 	src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.0-beta.13/angular.min.js"></script>
-<script src="/todo.js"></script>
-<link rel="stylesheet" href="/todo.css">
+<script src="todo.js"></script>
+<link rel="stylesheet" href="todo.css">
 </head>
 <body>
 	<h2>Todo</h2>
